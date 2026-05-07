@@ -1,7 +1,9 @@
 # Traffic-Sales-Analysis
-Traffic & Sales Analysis — Portfolio Project
-Tools: SQL · Python · Pandas · BigQuery · Tableau Public
-Author: Rostyslav Krupnitskyi
+Portfolio Project
+
+Tools: SQL · Python · Pandas · BigQuery · 
+
+## [Tableau Dashboard](https://public.tableau.com/views/BusinessPerformanceOverview_17775798601180/BusinessPerformanceOverviewSalesandTraffic?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Overview
 This project analyzes traffic, user behavior, and sales performance of an e‑commerce platform using data extracted from Google BigQuery. It demonstrates end‑to‑end analytical workflow: from data extraction and cleaning to exploratory analysis, statistical testing, and dashboard creation.
